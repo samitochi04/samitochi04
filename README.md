@@ -27,8 +27,8 @@ A full-fledged school management system for handling student data and administra
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](#)  
-- 📝 [Portfolio](#)  
-- 📧 [Email Me](mailto:your.email@example.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/samuel-fotso-6b9879253)  
+- 📝 [Portfolio](https://samuel-porfolio.web.app/)  
+- 📧 [Email Me](mailto:temmodaryl317@gmail.com)  
 
 ⭐ **Feel free to explore my projects and leave a star if you find them useful!** ⭐
