@@ -16,19 +16,18 @@ A complete AI-powered chatbot for medical consultations using NLP.
 A robust web scraping tool built using Python and BeautifulSoup/Selenium.  
 🔗 [View Repository](https://github.com/samitochi04/Scraping-Python)  
 
-### 🎮 IT Game  
-An interactive game built using Unity/Pygame (or your game engine).  
-🔗 [View Repository](https://github.com/samitochi04/IT_GAME)  
+### 🎮 Recipe Hub  
+A web/desktop app to search and add recipes.  
+🔗 [View Repository](https://github.com/samitochi04/recipehub)  
 
-### 🏫 School Management System  
-A full-fledged school management system for handling student data and administration.  
-🔗 [View Repository](https://github.com/samitochi04/school_management)  
+### 🏫 Testeur de Resilience d'API  
+A web app postman like, to test your APIs.  
+🔗 [View Repository](https://github.com/samitochi04/TesteurDeResilienceD_Api)  
 
 ---
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/samuel-fotso-6b9879253)  
-- 📝 [Portfolio](https://samuel-porfolio.web.app/)  
 - 📧 [Email Me](mailto:temmodaryl317@gmail.com)  
 
 ⭐ **Feel free to explore my projects and leave a star if you find them useful!** ⭐
