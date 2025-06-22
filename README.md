@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Samuel FOTSO TEMEU!</h1>
 <p align="center">
   <b>Welcome to my GitHub Portfolio!</b><br>
-  I specialize in AI, Web Scraping, Game Development, and Full-Stack Development. Below are some of my featured projects. 🚀
+  I specialize in AI, Data Science, Machine Learning Algorithm, and Full-Stack Development. Below are some of my featured projects. 🚀
 </p>
 
 ---
