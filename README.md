@@ -18,11 +18,11 @@ A robust web scraping tool built using Python and BeautifulSoup/Selenium.
 
 ### 🤖 LEKE - AI Document Assistant
 A beautiful AI-powered web application that processes documents (PDFs, images, CSV files) and provides intelligent responses to user queries using DeepSeek API.
-🔗 [View Repository](https://github.com/samitochi04/Scraping-Python) 
+🔗 [View Repository](https://github.com/samitochi04/leke) 
 
 ### 🎮 Recipe Hub  
 A web/desktop app to search and add recipes.  
-🔗 [View Repository](https://github.com/samitochi04/leke)  
+🔗 [View Repository](https://github.com/samitochi04/recipehub)  
 
 ### 🏫 Testeur de Resilience d'API  
 A web app postman like, to test your APIs.  
