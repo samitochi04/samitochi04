@@ -16,9 +16,13 @@ A complete AI-powered chatbot for medical consultations using NLP.
 A robust web scraping tool built using Python and BeautifulSoup/Selenium.  
 🔗 [View Repository](https://github.com/samitochi04/Scraping-Python)  
 
+### 🤖 LEKE - AI Document Assistant
+A beautiful AI-powered web application that processes documents (PDFs, images, CSV files) and provides intelligent responses to user queries using DeepSeek API.
+🔗 [View Repository](https://github.com/samitochi04/Scraping-Python) 
+
 ### 🎮 Recipe Hub  
 A web/desktop app to search and add recipes.  
-🔗 [View Repository](https://github.com/samitochi04/recipehub)  
+🔗 [View Repository](https://github.com/samitochi04/leke)  
 
 ### 🏫 Testeur de Resilience d'API  
 A web app postman like, to test your APIs.  
