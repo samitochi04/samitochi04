@@ -1,37 +1,37 @@
-<h1 align="center">👋 Hi, I'm Samuel FOTSO TEMEU!</h1>
+<h1 align="center">👋 Salut, je suis Samuel FOTSO TEMEU !</h1>
 <p align="center">
-  <b>Welcome to my GitHub Portfolio!</b><br>
-  I specialize in AI, Data Science, Machine Learning Algorithm, and Full-Stack Development. Below are some of my featured projects. 🚀
+  <b>Bienvenue sur mon portfolio GitHub !</b><br>
+  Je suis spécialisé en IA, Data Science, algorithmes d’apprentissage automatique et développement Full-Stack. Voici quelques-uns de mes projets phares. 🚀
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projets à la Une
 
-### 🏥 End-to-End Medical Chatbot  
-A complete AI-powered chatbot for medical consultations using NLP.  
-🔗 [View Repository](https://github.com/samitochi04/End-to-ENd-Medical-Chatbot)  
+### 🏥 Chatbot Médical de bout en bout  
+Un chatbot complet alimenté par l’IA pour les consultations médicales utilisant le NLP.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/End-to-ENd-Medical-Chatbot)  
 
-### 🕵️‍♂️ Web Scraping with Python  
-A robust web scraping tool built using Python and BeautifulSoup/Selenium.  
-🔗 [View Repository](https://github.com/samitochi04/Scraping-Python)  
+### 🕵️‍♂️ Web Scraping avec Python  
+Un outil de web scraping robuste développé avec Python et BeautifulSoup/Selenium.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/Scraping-Python)  
 
-### 🤖 LEKE - AI Document Assistant
-A beautiful AI-powered web application that processes documents (PDFs, images, CSV files) and provides intelligent responses to user queries using DeepSeek API.
-🔗 [View Repository](https://github.com/samitochi04/leke) 
+### 🤖 LEKE - Assistant IA pour Documents
+Une magnifique application web alimentée par l’IA qui traite des documents (PDF, images, fichiers CSV) et fournit des réponses intelligentes aux requêtes des utilisateurs grâce à l’API DeepSeek.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/leke)  
 
 ### 🎮 Recipe Hub  
-A web/desktop app to search and add recipes.  
-🔗 [View Repository](https://github.com/samitochi04/recipehub)  
+Une application web/desktop pour rechercher et ajouter des recettes.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/recipehub)  
 
-### 🏫 Testeur de Resilience d'API  
-A web app postman like, to test your APIs.  
-🔗 [View Repository](https://github.com/samitochi04/TesteurDeResilienceD_Api)  
+### 🏫 Testeur de Résilience d’API  
+Une application web, similaire à Postman, pour tester vos API.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/TesteurDeResilienceD_Api)  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Restons en contact !
 - 💼 [LinkedIn](www.linkedin.com/in/samuel-fotso-6b9879253)  
-- 📧 [Email Me](mailto:temmodaryl317@gmail.com)  
+- 📧 [M’écrire un e-mail](mailto:temmodaryl317@gmail.com)  
 
-⭐ **Feel free to explore my projects and leave a star if you find them useful!** ⭐
+⭐ **N’hésitez pas à explorer mes projets et à laisser une étoile si vous les trouvez utiles !** ⭐
