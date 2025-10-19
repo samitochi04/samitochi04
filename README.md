@@ -8,25 +8,25 @@
 
 ## 📌 Projets à la Une
 
-### 🏥 Chatbot Médical de bout en bout  
-Un chatbot complet alimenté par l’IA pour les consultations médicales utilisant le NLP.  
-🔗 [Voir le dépôt](https://github.com/samitochi04/End-to-ENd-Medical-Chatbot)  
+### Analog 
+Une plateforme d'analyse de données révolutionnaire qui permet d'analyser des fichiers CSV, XLS et XLSX en quelques secondes, avec des visualisations interactives et des rapports PDF générés par IA.
+🔗 [Voir le dépôt](https://github.com/samitochi04/analog)  
 
-### 🕵️‍♂️ Web Scraping avec Python  
-Un outil de web scraping robuste développé avec Python et BeautifulSoup/Selenium.  
-🔗 [Voir le dépôt](https://github.com/samitochi04/Scraping-Python)  
+### CNN Image Classification  
+Ce projet vise à classifier les images du jeu de données donné en tant que chats ou chiens en utilisant des réseaux de neurones convolutionnels (CNN). 
+🔗 [Voir le dépôt](https://github.com/samitochi04/cnn-image-classification)  
 
-### 🤖 LEKE - Assistant IA pour Documents
+### LEKE - Assistant IA pour Documents
 Une magnifique application web alimentée par l’IA qui traite des documents (PDF, images, fichiers CSV) et fournit des réponses intelligentes aux requêtes des utilisateurs grâce à l’API DeepSeek.  
 🔗 [Voir le dépôt](https://github.com/samitochi04/leke)  
 
-### 🎮 Recipe Hub  
-Une application web/desktop pour rechercher et ajouter des recettes.  
-🔗 [Voir le dépôt](https://github.com/samitochi04/recipehub)  
+### Bike Analytics Dashboard 
+Un tableau de bord d'analyse complet pour les données d'un boutique d'accessoires de cyclistes, comprenant des indicateurs clés de performance en temps réel, des visualisations interactives et des informations de veille économique.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/Bike-Analytics)  
 
-### 🏫 Testeur de Résilience d’API  
-Une application web, similaire à Postman, pour tester vos API.  
-🔗 [Voir le dépôt](https://github.com/samitochi04/TesteurDeResilienceD_Api)  
+### Credit Card Fraude Detection  
+L'objectif de ce projet est d'analyser un ensemble de données contenant des transactions par carte de crédit pour voir les transactions frauduleuses.  
+🔗 [Voir le dépôt](https://github.com/samitochi04/Credit-Card-Fraud-Detection)  
 
 ---
 
